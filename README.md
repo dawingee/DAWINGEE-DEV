@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Dawin Gee
+# 🚀 Painting codel like Dawingee ...
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Python+Developer;Web+Security+Enthusiast;OFFG+Creator" alt="Typing SVG" />
