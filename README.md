@@ -1,4 +1,4 @@
-# 🚀 Coding Repos like Dawingee...
+# 🚀 d a w i n g e e
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Python+Developer;Web+Security+Enthusiast;OFFG+Creator" alt="Typing SVG" />
